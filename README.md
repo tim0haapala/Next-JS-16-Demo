@@ -1,3 +1,5 @@
+Tutorial about Next JS 16 in [Youtube](https://www.youtube.com/watch?v=I1V9YWqRIeI)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
